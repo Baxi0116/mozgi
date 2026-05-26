@@ -1,5 +1,5 @@
 <template lang="html">
-<div class="card">
+<div class="card w-full h-full">
 	<h3 class="card-title">{{ question.question }}</h3>
 
 	<section class="card-body">
@@ -11,7 +11,7 @@
 				type="radio"
 				v-model="selectedAnswer"
 				:value="index">
-			<label class="label" :for="`answer-${index}`">{{ answer.text }}</label>
+			<label :for="`answer-${index}`">{{ answer.text }}</label>
 		</div>
 
 	</section>

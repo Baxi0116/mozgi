@@ -1,5 +1,5 @@
 <template lang="html">
-<section class="flex items-center justify-between flex-col gap-y-8">
+<section class=" w-full h-full flex items-center justify-between flex-col gap-y-8">
   <button class="btn btn-primary" v-if="!selectedQuestion" @click="selectQuestion">Jöjjön egy kérdés</button>
   <template v-else>
     <MultiQuestion :key="selectedQuestion.question" v-if="selectedQuestion.type === 'multi'" :question="selectedQuestion" :correct="questionCorrect" @submit-answer="validateAnswer"/>

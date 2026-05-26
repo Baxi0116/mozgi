@@ -1,6 +1,6 @@
 <template lang="html">
-<div class="card">
-	<h3 class="text-2xl card-title">{{ question.question }}</h3>
+<div class="card w-full h-full">
+	<h3 class="card-title">{{ question.question }}</h3>
 
 	<section class="card-body">
 		<div class="flex items-center justify-items-start gap-x-4" v-for="(answer, index) in question.answers" :key="`answer-${index}`">
@@ -11,7 +11,7 @@
 				type="checkbox"
 				v-model="selectedAnswer"
 				:value="index">
-			<label class="label" :for="`answer-${index}`">{{ answer.text }}</label>
+			<label :for="`answer-${index}`">{{ answer.text }}</label>
 		</div>
 	</section>
 	<section class="card-actions">
