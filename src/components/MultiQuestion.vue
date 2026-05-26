@@ -1,5 +1,5 @@
 <template lang="html">
-<div class="card w-full h-full">
+<div class="card w-full">
 	<h3 class="card-title">{{ question.question }}</h3>
 
 	<section class="card-body">
