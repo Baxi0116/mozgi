@@ -1,0 +1,2806 @@
+[
+  {
+    "question": "Mely állítás igaz vállízületi abductio során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A mozgáspálya első harmadában a m. supraspinatus aktivitása dominánsabb, majd rotációs komponense és a m. deltoideus középső rostjai viszik tovább a mozgást.",
+        "value": true
+      },
+      {
+        "text": "Állásban a karok abdukcióból történő visszaengedése során az abduktorok izotóniás excentrikus fékezése miatt kontrolláltan leengedik a karokat a törzs mellé.",
+        "value": true
+      },
+      {
+        "text": "Vertikális testhelyzetben teljes mozgáspályán gravitációval szemben dolgoznak az abduktorok, izotóniás koncentrikus aktivitást végeznek az abdukció során.",
+        "value": true
+      },
+      {
+        "text": "A humerus disztális vége lateralisan superior irányba mozdul el miközben az ízületben a humerus felfelé gördülése és superior csúszása valósul meg.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz vállízületi flexio során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A humerus disztális vége antero-superior irányban mozdul el miközben az ízületben a humerus fej anterior forgása és inferior csúszása valósul meg.",
+        "value": false
+      },
+      {
+        "text": "Állásban a karok flexióból történő visszaengedése során a m. deltoideus középső és hátsó rostjai izotóniás koncentrikus működéssel, kontrolláltan leengedik a karokat törzs mellé.",
+        "value": false
+      },
+      {
+        "text": "Vertikális testhelyzetben teljes mozgáspályán gravitációval szemben dolgozik a biceps brachii caput longum, izotóniás koncentrikus aktivitást végez a flexió során.",
+        "value": true
+      },
+      {
+        "text": "A humerus disztális vége antero-superior irányban mozdul el miközben az ízületben a humerus fej posterior forgása és minimális inferior csúszása valósul meg.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A supraspinatus indítja meg az abdukciót a vállízületben, mert a transzlációs komponense a mozgáspálya kezdetén nagyobb, mint a rotációs komponense.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      {
+        "text": "Hamis – mert a rotációs komponense a nagyobb a mozgáspálya elején",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A humerus hossztengelye és fej-nyak tengelye által bezárt szög értéke 45 fok.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (135 fok)", "value": true }
+    ]
+  },
+  {
+    "question": "A lig. coracohumerale a pr. coracoideusról fut 'V' alakban a humerus tuberculum majorra és minorra. Supero-inferior irányból stabilizálja az ízületet.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A törzs lateral flexio háton és hason fekvő pozícióban is a gravitáció kikapcsolásával jön létre.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A törzs lateral flexio oldalt fekvő pozícióban mind a két oldalon a gravitáció segítségével izotóniás koncentrikus izommunkával jön létre.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (mert gravitáció ellenében)", "value": true }
+    ]
+  },
+  {
+    "question": "A SCOM és a quadratus lumborum izmok azonos oldali lateral flexiót hoznak létre.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Az oldalt plank testhelyzet megtartását a két oldali törzs lateral flexorok és csípő abduktorok együtt kontrollálják synergizmusban és kokontrakcióban.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Vertikális testhelyzetben balra lateral flexio során az antagonista izmok eredése és tapadása távolodik egymástól az ellenoldalon, excentrikus működéssel fékezik az elmozdulást.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Nagy labdán a törzs alátámasztása mellett történő balra lateral flexios kiinduló helyzetben a jobb oldali antagonista izmok szempontjából stretching hatást vált ki a gyakorlat. Ha ebből a kiinduló testhelyzetből kiemeljük, jobbra lateral flektáljuk a törzset, akkor a jobb oldali lateral flexorok számára gravitációval szemben erősítő hatásúvá válik a gyakorlat.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Nem szükséges stabilizálni és megtartani a medencét közép helyzetben törzs lateral flexio során, mert csak ezzel a kompenzatórikus mozgással érhető el hatékony törzs lateral flexio.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Válassza ki a Laseque (SLR) teszttel kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A teszt fő célja a n. ischiadicus érintettségének vizsgálata.",
+        "value": true
+      },
+      {
+        "text": "SI ízület arthrosis és discus hernia differenciáldiagnosztikáját végezzük.",
+        "value": false
+      },
+      {
+        "text": "L5-S1 szegmentum discus hernia okozhat panaszokat a teszt során.",
+        "value": true
+      },
+      {
+        "text": "A teszt pozitív, ha tünetek jelennek meg a comb ventrális területén.",
+        "value": false
+      },
+      {
+        "text": "A m. quadriceps femoris gyengeségét vizsgáljuk.",
+        "value": false
+      },
+      {
+        "text": "A teszt pozitív, ha kisugárzó fájdalom jelenik meg a csípő 30-70 fokos flexiója során.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki a speciális tesztekkel kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A Quadrant teszt a lumbalis discus herniát vizsgálja.",
+        "value": false
+      },
+      {
+        "text": "A Slump teszt során az alsó végtagban jelenhetnek meg tünetek discus hernia miatt.",
+        "value": true
+      },
+      {
+        "text": "A szegmentális instabilitás miatti fájdalom csökken, ha hason fekvő helyzetben az alsó végtagot a beteg megemeli a talajról.",
+        "value": true
+      },
+      {
+        "text": "A Slump teszt kompressziót hoz létre a kisízületekben.",
+        "value": false
+      },
+      {
+        "text": "Kisízületi kompressziót hozhatunk létre extenzióval és azonos oldali lateralflexióval, rotációval.",
+        "value": true
+      },
+      {
+        "text": "A Nachlas/Ely teszt során a n. ischiadicus nyújtását végezzük.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A Spondylitis Ankylopoetica az ágyéki gerinc arthritisével kezdődik, és a teljes gerinc elcsontosodásához vezet.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (általában sacroileitis-sel kezdődik)", "value": true }
+    ]
+  },
+  {
+    "question": "Izometriás ellenállásos vizsgálat során – párosítsa a vizsgált izomcsoportot az alkalmazott irányával!\n• Törzs extensorok vizsgálatánál?\n• Törzs flexorok vizsgálatánál?\n• Jobb lateralflexorok vizsgálata esetén?\n• Bal lateralflexorok vizsgálata esetén?\n• Jobb rotatorok vizsgálata esetén?\n• Bal rotatorok vizsgálata esetén?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Extensorok → ventrális irányba; Flexorok → dorsalis irányba; Jobb lateralflexorok → balra; Bal lateralflexorok → jobbra; Jobb rotatorok → balra; Bal rotatorok → jobbra",
+        "value": true
+      },
+      {
+        "text": "Extensorok → dorsalis irányba; Flexorok → ventrális irányba; Jobb lateralflexorok → jobbra; Bal lateralflexorok → balra; Jobb rotatorok → jobbra; Bal rotatorok → balra",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A spondylolysthesis leggyakrabban a lumbo-sacralis átmenetben alakul ki, a retro-listhesis nagyon ritka az antero-listhesishez viszonyítva.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A lumbalis gerinc fiziológiás mozgástartománya flexio irányába 10 cm.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (5-6 cm)", "value": true }
+    ]
+  },
+  {
+    "question": "A m. rectus abdominis 5-ös izomerő vizsgálatakor a karok a mellkas előtt vannak keresztezve.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (4-es izomerő)", "value": true }
+    ]
+  },
+  {
+    "question": "Párosítsa az adott tünethez kapcsolódó szegmentumot!\n• Lábujjhegyre állás nehezített\n• Patella reflex: hypo- vagy areflexia\n• Fájdalom a comb ventralis felszínén\n• Sarok-állás nehezített\n• M. extensor hallucis longus és m. extensor digitorum longus gyengeség\n• Achilles-ín hypo-, areflexia",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Lábujjhegyre állás → S1; Patella reflex hypo/areflexia → L4; Fájdalom comb ventralis → L4; Sarok-állás → L5; EHL+EDL gyengeség → L5; Achilles hypo/areflexia → S1",
+        "value": true
+      },
+      {
+        "text": "Lábujjhegyre állás → L5; Patella reflex → L3; Fájdalom comb ventralis → L5; Sarok-állás → S1; EHL+EDL gyengeség → L4; Achilles → L5",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A teljes 180 fokos abdukció létrejötte érdekében mind a vállövben, mind a scapula tekintetében, mind a glenohumeralis ízületben történik elmozdulás.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A vállízület mozgásai facilitálják a törzs izmok működését, pl. teljes vállízületi flexio törzs extenziót, az abdukció pedig ellenoldali lateral flexiót indukál a mozgáspálya végén.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A m. supraspinatus indítja meg az abdukciós elmozdulást (rotációs komponense nagy), majd a m. deltoideus I-II. rostlefutása megváltozik és a III. rosttal együtt továbbviszik az abdukciót.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A supraspinatus rotációs komponense az abdukció mértékének növekedésével fokozatosan csökken, és ha 90 fokos abdukciónál a transzlációs komponense domináns, centralizálja a fejet a vápában.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Vállízületi kirotációval egybekötött vállövi protrakciót (90 fokos vállízületi abdukciós és 90 fokos könyökízületi flexiós kiinduló helyzetből) nem ajánlott forszírozni ízületi lazaság talaján, mert sub-, vagy teljes luxációt okozhat az ízületben.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Mely testhelyzetben erősíthetjük a m. biceps brachii-t?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Bordásfallal szemben állva karok törzs mellett 90 fokos flexiós kiinduló helyzetben.",
+        "value": false
+      },
+      {
+        "text": "Ülő testhelyzetben karok törzs mellett, könyökízület nyújtva, enyhe vállízületi extensiós kiinduló helyzet.",
+        "value": true
+      },
+      {
+        "text": "Háton fekvésben teljes mozgáspályán, mert könnyű a medence stabilizálása.",
+        "value": false
+      },
+      {
+        "text": "Oldalt fekvő testhelyzetben karok 90 fokos abdukcióban.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mi történik vállövi elmozdulás során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Vállövi protrakcio során a sternoclavicularis ízületben az osteokinematikus elmozdulás és az arthrokinematikai csúszás iránya megegyezik.",
+        "value": true
+      },
+      {
+        "text": "A vállövi elevatio irányában történő elmozdulás során a clavicula acromionalis vége superior irányban elmozdul miközben a sternoclavicularis ízületben superior csúszása valósul meg.",
+        "value": false
+      },
+      {
+        "text": "A vállövi retractio során a scapula medialisan csúszik, addukálódik, medialisan billen, az angulus inferior berotálódik. Az elmozdulás során a scapula a frontális síkhoz közelít, a frontális síkkal bezárt szöge csökken.",
+        "value": true
+      },
+      {
+        "text": "A vállövi depressio során a scapula lateralisan csúszik, abdukálódik, lateralisan billen, az angulus inferior kirotálódik. Az elmozdulás során a scapula a frontális síkhoz közelít.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mi a m. externus abdominis unilateralis funkciója?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Anatómiai kapcsolatban áll a serratus anterior rostjaival.",
+        "value": true
+      },
+      {
+        "text": "Izotóniás koncentrikus fordított működésben a törzset ellenoldalra rotálja.",
+        "value": true
+      },
+      {
+        "text": "Kereszt synergizmusban működik az ellenoldali obliquus internus abdominis obliquus rostjaival.",
+        "value": true
+      },
+      {
+        "text": "Izotóniás koncentrikus egyenes működésben a medencét azonos oldalra rotálja.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Melyik NEM igaz a m. diaphragma funkciója esetében?",
+    "type": "multi",
+    "answers": [
+      { "text": "A belégzés elsődleges izma.", "value": false },
+      {
+        "text": "Vertikális testhelyzetben a kilégzés fázisa során a gravitáció segítségével nyújthatjuk.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A törzs flexió háton fekvésben a gravitációval segítségével végzett hasizom nyújtó gyakorlat.",
+        "value": false
+      },
+      {
+        "text": "A különböző testhelyzetekben különböző kapcsolatban állnak a légző mozgások a gravitációval.",
+        "value": true
+      },
+      {
+        "text": "Az izotóniás koncentrikus gyakorlatok könnyebbek, mint az ellenállással szembeni izometrikus gyakorlatok.",
+        "value": true
+      },
+      {
+        "text": "A legnehezebb az izomzat számára az izotóniás excentrikusan fékező, kontrolláló jellegű mozgás.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki a megfelelő válaszokat az SI ízületi tesztekhez!\n• Az SI ízület érintettségét vizsgálja?\n• Az SI ízület posterior szalagjait vizsgálja?\n• A lumbalis gerinc kisízületi érintettsége?\n• SI ízület anterior szalagjai?\n• N. ischiadicus megnyújtását okozza?\n• SI ízületi felszínen kompressziót hoz létre?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "SI érintettség vizsgálata → Mindkettő; Posterior szalagok → Approximation; Lumbalis kisízület → Egyik sem; Anterior szalagok → Gapping; N. ischiadicus nyújtás → Egyik sem; Kompresszió → Mindkettő",
+        "value": true
+      },
+      {
+        "text": "SI érintettség → Gapping; Posterior szalagok → Mindkettő; Lumbalis kisízület → Approximation; Anterior szalagok → Egyik sem; N. ischiadicus → Mindkettő; Kompresszió → Egyik sem",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki a SIT-UP teszttel kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Csontos növekedési eltérés miatt kialakuló végtag-hossz különbséget vizsgál (strukturális).",
+        "value": false
+      },
+      {
+        "text": "Anterior torsio esetén az érintett oldali végtag fekvő helyzetben hosszabb.",
+        "value": true
+      },
+      {
+        "text": "Posterior torsio esetén az érintett oldali végtag ülő helyzetben hosszabb.",
+        "value": true
+      },
+      {
+        "text": "Posterior torsio esetén az érintett oldali végtag ülő helyzetben rövidebb.",
+        "value": false
+      },
+      {
+        "text": "Anterior torsio esetén az érintett oldali végtag fekvő helyzetben rövidebb.",
+        "value": false
+      },
+      {
+        "text": "Lágyrész-diszbalance miatt kialakult végtag-hossz különbséget vizsgál (funkcionális).",
+        "value": false
+      },
+      {
+        "text": "Az SI ízületben létrejött torziós deformitást vizsgálja.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely izmok-izomcsoportok ellensúlyozzák az iliopsoas funkcióját a medence sagittalis síkú stabilizálása érdekében?",
+    "type": "multi",
+    "answers": [
+      { "text": "Gluteus maximus", "value": true },
+      { "text": "Rectus abdominis alsó rostjai", "value": true },
+      { "text": "Quadratus lumborum", "value": false },
+      { "text": "Quadriceps femoris", "value": false }
+    ]
+  },
+  {
+    "question": "Igaz állítás:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Thorakális gerincen a kyphosis mértékének növekedése indukálódna a súlyvonal elhelyezkedése miatt, de a m. erector spinae kontrollálja az egyensúlyi helyzet megtartását excentrikus izommunkával.",
+        "value": true
+      },
+      {
+        "text": "A súlyvonal az SI ízületben az ízület forgáspontja mögött és a lumbo-sacralis átmenet előtt halad el, az SI ízületben kontranutációt indukálna.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás NEM igaz a mellkas mobilitása során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye az alsó ízületi szakaszon a frontális síkhoz közelít, ezért a bordakosár anterior és superior irányba eleválódik.",
+        "value": true
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye az alsó ízületi szakaszon a sagittalis síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": false
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye a felső ízületi szakaszon a sagittalis síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": false
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye a felső ízületi szakaszon a frontális síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az alábbiak közül a m. iliopsoas tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus egyenes működése közben a csípő ízületi extenzióját végzi stabil törzshöz képest.",
+        "value": false
+      },
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus fordított működése közben a medencét hátra billenti, lumbális lordosis mértéke csökken, és a csigolyák egymáshoz képesti extenziós irányú elmozdulását indukálja.",
+        "value": false
+      },
+      {
+        "text": "A m. iliopsoas egyoldali koncentrikus működése közben ellenoldalra rotálja a törzset.",
+        "value": true
+      },
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus fordított működése közben a medencét előre billenti, fokozva a lumbális lordosis mértékét, extendálja a lumbalis gerincet.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz az atlanto-occipitalis ízület tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Az atlanto-occipitalis ízületben flexió során a konvex occiput posterior irányban csúszik a massa lateralis konkáv ízfelszínén, a fej anterior irányba mozdul el.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A törzs rotációja során azonos oldalra rotálnak a m. erector spinae rostjai, miközben a m. transverzospinalis rostjai pedig ellenoldalra rotálják a törzset.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A medence ellenoldali rotációját stabil törzshöz képest a m. obliquus internus végzi el izotóniás koncentrikus fordított működéssel. Ezt segíti azonos oldalra rotálva a medencét a m. obliquus externus izotóniás koncentrikus egyenes működéssel.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A törzs ellenoldali rotációjában stabil medencéhez képest a m. obliquus externus működik közre izotóniás koncentrikus fordított működéssel. Ezen elmozdulást segíti azonos oldalra rotálva a törzset a m. obliquus internus izotóniás koncentrikus egyenes működéssel.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A törzs rotációja álló helyzetben a gravitáció kikapcsolásával jön létre. Ha álló testhelyzetből törzs döntést végzünk miközben a bal lábhoz nyújtózunk a jobb karunkkal, akkor a törzs extenzorai excentrikusan kontrollálják a gravitáció segítségével létrejövő balra rotációt.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A quadratus lumborum ellenoldalra, az iliopsoas pedig azonos oldalra rotálja a törzset unilateralis funkcióban.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Mely izmok működnek a temporomandibularis ízület depressziós és elevatiós irányú elmozdulásai során?",
+    "type": "multi",
+    "answers": [
+      { "text": "M. temporalis", "value": true },
+      { "text": "M. pterygoideus medialis", "value": true },
+      { "text": "M. digastricus", "value": true },
+      { "text": "M. masseter", "value": true }
+    ]
+  },
+  {
+    "question": "A TMJ saját statikus stabilizátorai a lig. stylomandibulare és a lig. sphenomandibulare. Az ízületi tok bő, laza.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Az ízfelszínek között inkongruenciát egy discus balanszírozza, amely a sagittalis síkban S alakú, középen elvékonyodott.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A mandibula depresszió 2 fázisa során anterior rotáció majd antero-inferior csúszás valósul meg az ízületben.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A mandibula balra történő lateral deviatoja során a bal condylus elfordul a függőleges tengely mentén miközben a jobb condylus antero-inferior irányba csúszik.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A temporomandibularis ízület alkotói: ízületi fej – caput mandibulae; ízületi vápa – os temporales fossa mandibularis.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A teljes 180 fokos abdukció létrejötte érdekében mind a vállövben, mind a scapula tekintetében, mind a glenohumeralis ízületben történik elmozdulás.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A vállízület mozgásai facilitálják a törzs izmok működését, pl. teljes vállízületi flexió törzs extenziót, az abdukció pedig ellenoldali lateral flexiót indukál a mozgáspálya végén.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A m. supraspinatus indítja meg az abdukciós elmozdulást (rotációs komponense nagy), majd a m. deltoideus I-II rostlefutása megváltozik és III rosttal együtt továbbviszik az abdukciót.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A supraspinatus rotációs komponense az abdukció mértékének növekedésével fokozatosan csökken és 90 fokos abdukciónál a transzlációs komponense domináns, centralizálja a fejet a vápában.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Vállízületi kirotációval egybekötött vállövi protractio (90 fokos vállízületi abdukciós és 90 fokos könyökízületi kiinduló helyzetből) nem ajánlott forszírozni ízületi lazaság talaján, mert sub vagy teljes luxatiót okozhat az ízületben.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A helyes testtartás kialakítása érdekében alapvetően a vállövi protractio és depressio diktálására, valamint a nyaki extenzorok tónusának fokozására törekszünk nagyobb hangsúllyal.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Az abdukcióból addukciós irányba (180-0 fok) visszaengedése karsúly vagy súly terhelése mellett az adduktorok izotóniás excentrikus működésével jön létre.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "A scapula berotációját a m. rhomboideus major és minor, illetve a m. levator scapulae segítik.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A Spondylitis Ankylopoetica az ágyéki gerinc arthritisével kezdődik, és a teljes gerinc elcsontosodásához vezet.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (általában sacroileitis-sel kezdődik)", "value": true }
+    ]
+  },
+  {
+    "question": "Vállövi elevatio-depressio során az osteokinematika és arthrokinematika iránya azonos. Protractio és retractio során szintén azonos. Mértékük 15 fok.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "A lig. sternoclaviculare anterior rostjai a retractiot, posterior rostjai a protractiot, lateralis rostjai az elevatiot korlátozzák miközben a levator scapulae a scapulat eleválja, az angulus inferior berotálja.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A scapula mozgásai a vállövi és vállízületi mozgásokkal harmóniában történnek. Medio-lateralis és supero-inferior csúszás, billenés (winging és tipping) és rotáció valósul meg.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A scapula síkja a frontális síkba esik, azzal bezárt szöge 60 fok, scapula síkja és a clavicula hossztengelye pedig 30 fokos szöget zár be egymással.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Állítás-megbetegedés párosítás:\n• Veleszületett és szerzett formája is van?\n• A fej ferde tartása lehet az egyik fő tünet?\n• Scoliosist okozhat a hemivertebraeval kiegészült unilateralis oszlop?\n• Minden esetben neurológiai tünetek kísérik?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Veleszületett és szerzett forma → Torticollis; Fej ferde tartása → Mindkettő; Scoliosis hemivertebra → Szegmentációs és formációs zavar; Neurológiai tünetek minden esetben → Egyik sem",
+        "value": true
+      },
+      {
+        "text": "Veleszületett forma → Mindkettő; Fej ferde tartása → Torticollis; Scoliosis hemivertebra → Egyik sem; Neurológiai tünetek → Mindkettő",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Helyes állítások (nyaki patológiák):",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A nyaki borda következtében TOS alakulhat ki.",
+        "value": true
+      },
+      {
+        "text": "Shortness of m. pectoralis major causes costoclavicular syndrome.",
+        "value": false
+      },
+      {
+        "text": "Scoliosis kialakulhat a nyaki szakasz izmos diszbalansza miatt is.",
+        "value": true
+      },
+      {
+        "text": "Obstruction of vertebral artery can cause nystagmus.",
+        "value": true
+      },
+      {
+        "text": "Torticollis a m. scalenus izmok rupturája miatt alakul ki.",
+        "value": false
+      },
+      {
+        "text": "A nyaki borda a cervicalis csigolyák bármelyik szegmentumán kialakulhat, de főleg a cranialison jellemző.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Helyes állítások (szegmentációs és formációs zavarok):",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A szegmentációs és formációs zavarok együtt is előfordulhatnak.",
+        "value": true
+      },
+      {
+        "text": "A lumbalizáció a sacralis régiót érintő szegmentációs zavar.",
+        "value": true
+      },
+      {
+        "text": "Szegmentációs zavar esetén több szegmentumot érintő blokkcsigolya is kialakulhat.",
+        "value": true
+      },
+      {
+        "text": "Csak a frontális síkban alakulhat ki formációs zavar.",
+        "value": false
+      },
+      {
+        "text": "A sacralisatio egy nyaki szegmentációs zavar.",
+        "value": false
+      },
+      {
+        "text": "A formáció zavar csak a sagittalis síkú görbületeket változtatja meg.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A Klippel-Feil szindróma a nyaki szakaszt érintő veleszületett deformitás, melynek tünete a nyaki mozgások limitációja, a cervicalis gerinc rövidülése.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A nyaki szakaszon létrejött radiculáris érintettség esetén a fej területén is megjelenhet fájdalom.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz a m. longus colli tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A SCOM működése során synergizmusban segíti a fej-nyak előre helyezését.",
+        "value": false
+      },
+      {
+        "text": "Funkciója a nyaki csigolyák egymáshoz képest történő flexiójának megindítása.",
+        "value": true
+      },
+      {
+        "text": "Funkciója a nyaki csigolyák egymáshoz képest történő extensiójának megindítása.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mi a m. obliquus capitis posterior inferior unilateralis funkciója?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Izotóniás működésben a tarkót ellenoldalra rotálja.",
+        "value": true
+      },
+      {
+        "text": "Izotóniás működésben az arcot ellenoldalra rotálja.",
+        "value": false
+      },
+      {
+        "text": "Izotóniás működésben a tarkót azonos oldalra rotálja.",
+        "value": false
+      },
+      {
+        "text": "Izotóniás működésben az arcot azonos oldalra rotálja.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Obliquus capitis posterior superior funkciója:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Izotóniás működésben a tarkót ellenoldalra rotálja.",
+        "value": false
+      },
+      {
+        "text": "Izotóniás működésben az arcot ellenoldalra rotálja.",
+        "value": true
+      },
+      {
+        "text": "Izotóniás működésben a tarkót azonos oldalra rotálja.",
+        "value": true
+      },
+      {
+        "text": "Izotóniás működésben az arcot azonos oldalra rotálja.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "SCOM funkciója:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A m. longus colli aktivitása során a rostlefutása megváltozik és flexorként segíti a nyaki gerinc elmozdulását.",
+        "value": true
+      },
+      {
+        "text": "Ellenoldali rotációt és azonos oldali lateral flexiót indukál a nyaki gerincen.",
+        "value": true
+      },
+      {
+        "text": "A fejet a nyakcsigolyákhoz képest, a nyakcsigolyákat egymáshoz képest extendálja bilaterális működésben.",
+        "value": true
+      },
+      {
+        "text": "Ellenoldali lateral flexiót és azonos oldali rotációt indukál a nyaki és thoracalis gerincen.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mi az unco vertebralis (Luschka) ízület funkciója?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A rotációs mozgás (a kisízületek, Luschka ízület és az ízfelszínek miatt) alapvetően összetetten jön létre, mindig társul hozzá egy ellenoldali lateral flexió és extenzió.",
+        "value": true
+      },
+      { "text": "A nyaki gerinc szakasz (C3-7) specifkuma.", "value": true },
+      {
+        "text": "A lateral flexiós irányú mobilitásának finom korlátozását, a flexio-extenzió sínezését szolgálja.",
+        "value": true
+      },
+      {
+        "text": "Ütközőt képez a csigolya test felső peremén található lateralis bemélyedéssel.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A thoracalis gerincen is kialakulhat discus hernia, de sokkal ritkábban és szegényesebb tünetekkel, mint a lumbalis és cervicalis szakaszon.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Helyes állítások (scoliosis):",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A scoliosis nem lehet congenitalis, mivel minden esetben a rossz testtartás és az izmok gyengesége miatt alakul ki.",
+        "value": false
+      },
+      {
+        "text": "A scoliosis ritkán alakul ki a thoracalis gerincen.",
+        "value": false
+      },
+      {
+        "text": "A scoliosis esetén a sagittalis síkú görbületek elsimulhatnak, csökkenhetnek.",
+        "value": true
+      },
+      {
+        "text": "A scoliosis lehet nyaki, háti, ágyéki vagy több szakaszt érintő, a görbület lehet jobbra, balra vagy S alakú kettős görbület.",
+        "value": true
+      },
+      {
+        "text": "A scoliosis kezelhető mozgásterápiával, füzővel, és műtéti úton a súlyosságától függően.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Állítás-betegség párosítás (Pectus Excavatum vs Pectus Carinatum):\n• Befolyásolhatja a szív és tüdő optimális működését?\n• Súlyos esetekben a szív komprimálódik, mitrális prolapsus alakulhat ki?\n• A bordák struktúrája és helyzete fiziológiás?\n• Közepesen súlyos és súlyos esetekben a mellkas rigid, a vitál kapacitás kisebb?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Mindkettő befolyásolja szív/tüdő működését; Mitrális prolapsus → Pectus Excavatum; Bordák fiziológiásak → Egyik sem; Rigid mellkas + csökkent VC → Pectus Carinatum",
+        "value": true
+      },
+      {
+        "text": "Csak Pectus Carinatum; Mitrális prolapsus → Mindkettő; Bordák fiziológiásak → Pectus Excavatum; Rigid mellkas → Pectus Excavatum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Thoracalis kisízületi irratáció, tok becsípődés fájdalmat okozhat a törzs különböző régióin, az érintett szegmentumnak megfelelő dermatomalis kivetüléssel.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "T4 szindrómára igaz:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A szimpatikus ganglionok irratációját a thoracalis gerinc hypomobilitása, a ganglionok csökkent vérellátása, izom eredetű elváltozások is okozhatják.",
+        "value": true
+      },
+      {
+        "text": "A probléma általában a thoracalis discus hernia talaján alakul ki másodlagosan.",
+        "value": false
+      },
+      {
+        "text": "Kialakulhat a végtagok és a kezek paresthesiája, kéz és alkar zsibbadás, felső végtag hidegsége, a kéz ödémája is.",
+        "value": true
+      },
+      {
+        "text": "A tünetek előfordulhatnak a thoracalis szakaszon, az occiput területén vagy akár ellenoldali, azonos oldali vagy mindkét oldali felső végtagon.",
+        "value": true
+      },
+      {
+        "text": "Nagyon ritkán jelentkezhet felső végtagi tünetek, leggyakrabban lokálisan a T4 csigolya területén fájdalmas.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az atlanto-occipitalis ízület tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Ha az occiput mozdul el az atlasz fix konkáv massa lateralisán az osteokinematikus elmozdulás és az arthrokinematikai csúszás iránya ellentétes.",
+        "value": true
+      },
+      {
+        "text": "Az atlasz konkáv massa lateralis nevű nagy ízfelszíne az occiput felé medialisan, superior és anterior irányba tekint.",
+        "value": true
+      },
+      {
+        "text": "Extenzió strukturálisan nem jöhet létre az ízületben, csak minimális billenés valósul meg.",
+        "value": false
+      },
+      {
+        "text": "Az ízület flexiója során az anterior irányban mozdul el miközben posterior irányban csúszik a condylus az atlaszon.",
+        "value": true
+      },
+      {
+        "text": "Az ízület rotációja során a struktúra és a lig. alare is korlátoz.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mi igaz a lig. transversum atlantisra?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Hátulról lezárja a gyűrűt, amelybe a dens axis belehelyezkedik, rögzül a dens axishoz hátul.",
+        "value": true
+      },
+      {
+        "text": "Rotáció közben ellentétesen megfeszül a tokkal, stabilizálja a dens axist.",
+        "value": true
+      },
+      {
+        "text": "A dens axis stabilizálása érdekében jelentős.",
+        "value": true
+      },
+      {
+        "text": "A dens csúcsától V alakban fut az occiputra.",
+        "value": false
+      },
+      { "text": "A lig. supraspinale folytatása C2 fölött.", "value": false }
+    ]
+  },
+  {
+    "question": "Atlanto-axialis ízület igaz állítás:",
+    "type": "multi",
+    "answers": [
+      { "text": "Az axis felső ízfelszíne konkáv.", "value": true },
+      {
+        "text": "Mind az atlasz mind az axis konvex ízfelszínnel rendelkezik az ízületben.",
+        "value": false
+      },
+      { "text": "Domináns mozgása a rotáció.", "value": true },
+      { "text": "A dens axis korlátozza a rotációt.", "value": false },
+      { "text": "A dens axis korlátozza a flexió-extensiót.", "value": false }
+    ]
+  },
+  {
+    "question": "Melyik állítás igaz az Atlasra?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A pr. transversusai rövidebbek, tövüknél lyuk található az artéria vertebralis lefutásának helyet adva.",
+        "value": true
+      },
+      {
+        "text": "Domináns mozgása a rotáció az atlanto-occipitalis ízületben.",
+        "value": false
+      },
+      {
+        "text": "A hátulsó íven valódi pr. spinosusa nincs, csupán tuberculum posterior található.",
+        "value": true
+      },
+      { "text": "Az atlanto-occipitalis ízület alkotója.", "value": true },
+      { "text": "Corpusa nincs, csak elülső és hátulsó íve.", "value": true }
+    ]
+  },
+  {
+    "question": "Mely mozgásokat korlátozza a lig. alare?",
+    "type": "multi",
+    "answers": [
+      { "text": "Az atlanto-occipitalis ízület flexióját.", "value": true },
+      { "text": "A C3 disztrakcióját.", "value": false },
+      { "text": "Az atlanto-occipitalis ízületben a rotációt.", "value": true },
+      {
+        "text": "Az atlanto-occipitalis ízületben az extensiót.",
+        "value": false
+      },
+      {
+        "text": "Radio-ulnaris proximalis syndesmosis elmozdulása során stabilizál.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz (légzés és gerinc)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Légzési nehezítettség esetében a légzési segédizmok fokozott tónusa és kifáradása (SCOM, scalenusok) lehetséges.",
+        "value": true
+      },
+      {
+        "text": "A thoracalis gerinc és a mellkas funkcionális és strukturális eltérései légzési problémát (belégzési nehezítettség) vonhatnak maguk után.",
+        "value": true
+      },
+      {
+        "text": "Paradox légzési minták alakulhatnak ki az abdominális-diaphragmális szinergizmus egyensúlyának megbomlása révén.",
+        "value": true
+      },
+      {
+        "text": "A dinamikus stabilizátorok egyensúlyának megbomlása soha nem okoz légzési problémákat.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz (mobilizáció elvei)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A törzs flexió oldalt fekvésben a gravitáció kikapcsolásával jön létre.",
+        "value": true
+      },
+      {
+        "text": "A törzs mobilizálása során a teherkar alapvetően a végtagok révén és eszközök segítségével befolyásolható.",
+        "value": true
+      },
+      {
+        "text": "A nyílt ízületi helyzetek a zárt ízületi helyzetek után következnek sorrendben a biztonságos mobilizáció szempontjából.",
+        "value": true
+      },
+      {
+        "text": "Az elmozdulások során mindig stabilizálnunk kell a medencét az elmozduló törzshöz képest.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz (rekeszizom mobilizáció)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Háton fekvésben pozícióban a gravitációs erő hatásának kikapcsolása mellett, a rekeszizom mobilizációját segítik elő.",
+        "value": true
+      },
+      {
+        "text": "Mélykúszó helyzetben elvégzett kilégzés során a rekeszizom nyújtását, lazítását segíthetjük elő.",
+        "value": true
+      },
+      {
+        "text": "A kilégzés során a m. diaphragma caudalisan mozdulva visszatér eredeti pozíciójába.",
+        "value": false
+      },
+      {
+        "text": "A m. diaphragma fiziológiás esetben belégzés során caudalisan mozdul el.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz (hasizom erősítés elvei)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Háton fekvésben csak a scapula alsó ívéig emelkedjünk meg, annak érdekében hogy kifejezetten a törzs flexorokkal dolgozzunk.",
+        "value": true
+      },
+      {
+        "text": "Törzs flexorok erősítő hatású gyakorlatai során a medence hátrabillenése és stabilizálása szükségszerű a lumbális gerinc védelme érdekében.",
+        "value": true
+      },
+      {
+        "text": "Páros lábemeléssel és leengedéssel végzett hasizom gyakorlatok a gyógytorna szempontjai szerint nagyon hasznosak.",
+        "value": false
+      },
+      {
+        "text": "A törzs felülről indított flexiója nem minden esetben megengedett, adott betegségek például osteoporosis esetében nem diktálandók.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A medence anterior torsioja során az SI ízületben ___ jön létre, az acetabulum a horizontális síkban ___ irányba, a sagittalis síkban ___ irányba mozdul el.",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Kontranutáció; horizontális síkban: caudalis; sagittalis síkban: dorsalis",
+        "value": true
+      },
+      {
+        "text": "Nutáció; horizontális síkban: cranialis; sagittalis síkban: ventralis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás valós a pelvico-lumbo-hip komplexumban létrejövő elmozdulások tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A nyílt kinematikus láncban történő csípőízületi flexiós irányú elmozdulás során a medence előrebillentése révén flexió jön létre a lumbális gerinc szakaszon.",
+        "value": false
+      },
+      {
+        "text": "A nyílt kinematikus láncban történő csípőízületi flexiós irányú elmozdulás során a medence előrebillentése révén extenzió jön létre a lumbális gerinc szakaszon.",
+        "value": false
+      },
+      {
+        "text": "A zárt kinematikus láncban történő csípőízületi flexiós irányú elmozdulás során a medence előrebillentése révén extenzió jön létre a lumbális gerinc szakaszon.",
+        "value": true
+      },
+      {
+        "text": "A zárt kinematikus láncban történő csípőízületi extenziós irányú elmozdulás során a medence előrebillentése révén extenzió jön létre a lumbális gerinc szakaszon.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Párosítsa a testhelyzetet a feladattal!\n• Háton fekvő, alsó vgt-ok plafon felé 90 fokos csípő flexióban nyújtva\n• Vertikális, karok törzs mellett, fejünk fölött rögzített therraband\n• Oldalt fekvő testhelyzet\n• Háton fekvő, therraband rögzítve a boka körül\n• Vertikális, karok törzs mellett, súlyzót tartunk\n• Háton fekvő, mobilizálandó vgt. a talajon nyújtva, másik talppal a talajon",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Háton fekvő 90° csípő → csípő flexió erősítése; Vertikális + therraband fej felett → vállövi depressio; Oldalt fekvő → csípő adductio erősítése; Háton fekvő + therraband boka → csípő abductio; Vertikális + súlyzó → vállövi elevatio; Háton fekvő mobilizálás → térdízületi flexió-extenzió grav. kikapcs.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Az artéria és a véna subclavia valamint a plexus brachialis kerülhet nyomás alá a TOS esetén, melynek következtében keringési és/vagy neurológiai tünetek alakulhatnak ki.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A Trendelenburg teszt kivitelezésekor a beteg a VIZSGÁLT oldali végtagján áll, NEM-VIZSGÁLT végtagját hashoz húzza, a m. gluteus medius gyengesége esetén a HASHOZ HÚZOTT végtag oldali medencefél a FRONTÁLIS síkban lebillen.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Párosítsa a testhelyzetet a gyakorlat típusával!\n• Vertikális, karok tarkón, csípőben flexió, törzs előredöntés majd nyújtás\n• Oldalt fekvő testhelyzet\n• Háton és hason fekvő és négykézláb testhelyzet\n• Vertikális, bordásfalnál oldalt állva, karunk fül mellett, therraband\n• Ülő testhelyzet\n• Háton fekvő testhelyzet",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Vertikális tarkón karokkal → törzs extenzorok izometrikus erősítése; Oldalt fekvő → törzs flexió-extenzió grav. kikapcs.; Háton/hason/négykézláb → törzs lat.flex grav. kikapcs.; Bordásfalnál therraband → vállízületi adductorok erősítése; Ülő → törzs rotáció grav. kikapcs.; Háton fekvő → törzs flexió erősítése",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A törzs flexiójakor mely síkban és mely tengely mentén jön létre?",
+    "type": "multi",
+    "answers": [
+      { "text": "Frontális tengely mentén, sagittalis síkban", "value": true },
+      { "text": "Sagittalis tengely mentén, frontális síkban", "value": false },
+      {
+        "text": "Vertikális tengely mentén, transversalis síkban",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Sagittalis síkban a következő mozgások jönnek létre:",
+    "type": "multi",
+    "answers": [
+      { "text": "Flexio + extensio", "value": true },
+      { "text": "Lateral flexio", "value": false },
+      { "text": "Rotatio", "value": false }
+    ]
+  },
+  {
+    "question": "A test súlyvonala a következő képleteken halad át:",
+    "type": "multi",
+    "answers": [
+      { "text": "Sacralis 2", "value": true },
+      { "text": "Lumbo-sacralis átmenet", "value": true },
+      { "text": "L3 csigolya", "value": false },
+      { "text": "Thoracalis 12", "value": false }
+    ]
+  },
+  {
+    "question": "Arthrokinematikai mozgások:",
+    "type": "multi",
+    "answers": [
+      { "text": "Trakció", "value": true },
+      { "text": "Csúszás", "value": true },
+      { "text": "Gördülés", "value": true },
+      { "text": "Rotáció", "value": false }
+    ]
+  },
+  {
+    "question": "A kinetika a különböző objektumok mozgását és azokat létrehozó külső és belső erők összessége.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Milyen tényezők befolyásolják az egyensúlyozó képességet?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Az alátámasztási felszín növelése vagy csökkentése",
+        "value": true
+      },
+      { "text": "A hallás és látás", "value": true },
+      { "text": "A bőr hőmérséklete", "value": false }
+    ]
+  },
+  {
+    "question": "Mi jellemző a másodosztályú emelőkre?",
+    "type": "multi",
+    "answers": [
+      { "text": "A teherkar rövidebb, mint az erőkar.", "value": true },
+      {
+        "text": "A teher támadáspontja az ízület forgáspontja és az erő támadáspontja között helyezkedik el.",
+        "value": true
+      },
+      { "text": "A teherkar hosszabb, mint az erőkar.", "value": false },
+      { "text": "Az erő és a teher támadáspontja megegyezik.", "value": false }
+    ]
+  },
+  {
+    "question": "Mit nevezünk oszteokinematikus mozgásnak?",
+    "type": "multi",
+    "answers": [
+      { "text": "A csontvég szemmel látható ívmozgását.", "value": true },
+      { "text": "Rotációs mozgásokat.", "value": true },
+      {
+        "text": "Az ízületi felszínek egymáshoz képest végzett csúszását.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A másodosztályú emelők esetében a teher támadáspontja közelebb van az ízület forgáspontjához, mint az erő támadáspontja.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A zárt kin. láncra igaz:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A prox. mozgás-szegmentum mozdul a stabil distalis mozgás-szegmentumhoz viszonyítva.",
+        "value": true
+      },
+      {
+        "text": "A distalis mozgás-szegmentum mozdul a stabil proximalis mozgás-szegmentumhoz viszonyítva.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Zárt ízületi helyzetre jellemző:",
+    "type": "multi",
+    "answers": [
+      { "text": "Az ízületi tok és szalagrendszer laza.", "value": false },
+      {
+        "text": "Szükség van aktív izomerőre az ízület stabilizációjához.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A vállízület egy olyan szabad ízület (diarthrosis) melyet soktengelyű gömbízület alkot.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Ha a konvex ízfelszín mozdul a fix konkáv ízületi felszínen, akkor az oszteokinematikus elmozdulás és az arthrokinematikus csúszás iránya AZONOS.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "A fázikus izmokra jellemző, hogy:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Többnyire flexorok, adductorok és berotatorok tartoznak egy csoportba.",
+        "value": true
+      },
+      { "text": "Gyengülésre és megnyúlásra hajlamosak.", "value": true },
+      { "text": "Gyors, glikolitikus rostokból állnak.", "value": true },
+      { "text": "Rövidülésre és túlfeszülésre hajlamosak.", "value": false }
+    ]
+  },
+  {
+    "question": "Tónusos izmokra jellemző, hogy:",
+    "type": "multi",
+    "answers": [
+      { "text": "Lassú oxidatív rostokból állnak.", "value": true },
+      { "text": "Rövidülésre, túlfeszülésre hajlamosak.", "value": true },
+      {
+        "text": "Többnyire extensorok, abduktorok és kirotatorok tartoznak ide.",
+        "value": true
+      },
+      { "text": "Gyengülésre és megnyúlásra hajlamosak.", "value": false }
+    ]
+  },
+  {
+    "question": "Az autogén gátlás révén ha az agonista izom összehúzódik akkor az antagonista izomzat megnyúlik, pl. patella reflex.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Az izomerőt befolyásolja a működési egységek száma – minél finomabb mozgásokat végez annál több motoros egység mozgatja.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A piriformis palpatióját a SIPS–Trochanter major és a SIAS–Tuber Ischiadicum vonalának metszéspontjában végezzük.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A medence sagittalis síkú anterior billenését a m. gluteus medius gyengesége okozza.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "L5 szegmentum discus hernia esetén a beteg minden esetben vizelet- és széklettartási nehézségekkel küzd.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az unco vertebralis (Luschka) ízület tekintetében?",
+    "type": "multi",
+    "answers": [
+      { "text": "Az SI ízület stabilitását fokozza.", "value": false },
+      {
+        "text": "A lumbális gerinc lateral flexióját limitálja.",
+        "value": false
+      },
+      {
+        "text": "A cervicalis gerinc alsó szakaszán alakul ki.",
+        "value": true
+      },
+      {
+        "text": "A flexiós-extenziós mozgásokat sínezi a C3-C7 nyaki szakaszon.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Az anterotorziós-szög mértéke?",
+    "type": "multi",
+    "answers": [
+      { "text": "125", "value": false },
+      { "text": "60", "value": false },
+      { "text": "30", "value": false },
+      { "text": "15", "value": true }
+    ]
+  },
+  {
+    "question": "A ligamentum longitudinale anterius legerősebb szalag a gerinc stabilizálásában, rostjai mind az intervertebralis discusokon mind a csigolya corpusokon megtapadnak.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Mely állítások NEM igazak az atlanto-axialis ízület tekintetében?",
+    "type": "multi",
+    "answers": [
+      { "text": "Legdominánsabb mozgása a flexió-extenzió.", "value": true },
+      {
+        "text": "A fej balra rotációja során, rögzített dens axis mellett az ízületi tok jobb oldalon megfeszül az atlanto-dentalis ízületben.",
+        "value": true
+      },
+      { "text": "Domináns mozgása rotáció.", "value": false },
+      {
+        "text": "Stabilizátora a dens csúcsáról V alakban inferior irányba haladó lig. apicis dentis.",
+        "value": true
+      },
+      {
+        "text": "A dens axis stabilizátora a lig. transversum atlantis, amely denshez dorzálisan rögzül.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az SI ízület passzív vizsgálatakor, az ilium Anterior Rotációja a Sacrumon kivitelezése során?",
+    "type": "multi",
+    "answers": [
+      { "text": "A sacrum zárt láncú elmozdulása.", "value": false },
+      { "text": "A kontranutáció az SI ízületben.", "value": true },
+      {
+        "text": "SIPS caudal felé, a SIAS cranial felé mozdul.",
+        "value": false
+      },
+      { "text": "Az ilium nyílt láncú elmozdulása.", "value": true },
+      { "text": "A nutáció az SI ízületben.", "value": false },
+      { "text": "SIPS cranial felé, a SIAS caudal felé mozdul.", "value": true }
+    ]
+  },
+  {
+    "question": "Melyik a m. transversus abdominis funkciója az alábbiak közül?",
+    "type": "multi",
+    "answers": [
+      { "text": "Törzs rotátor.", "value": false },
+      { "text": "A medencét hátra billenti.", "value": false },
+      { "text": "Stabilizálja a lumbális gerincet.", "value": true },
+      { "text": "A medencét előre billenti.", "value": false }
+    ]
+  },
+  {
+    "question": "A bordakosár a felső ízületi szakaszon, a costovertebralis és a costotransverzalis ízületek frontális síkba eső közös tengelye mentén, antero-superior irányban eleválódik belégzés során.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "A vállízület kirotációját:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A m. teres minor, a m. infraspinatus és a m. deltoideus hátsó része hozza létre.",
+        "value": true
+      },
+      {
+        "text": "A m. teres minor, a m. infraspinatus és a m. supraspinatus hozza létre.",
+        "value": false
+      },
+      {
+        "text": "A m. teres minor, a m. infraspinatus és a m. deltoideus középső része és a m. latissimus dorsi hozza létre.",
+        "value": false
+      },
+      {
+        "text": "A m. teres minor, a m. teres major és a m. infraspinatus hozza létre.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A m. coracobrachialis elsősorban:",
+    "type": "multi",
+    "answers": [
+      { "text": "Flexiót, adductiót (berotatiót) hoz létre.", "value": false },
+      { "text": "Flexiót, adductiót (kirotatiót) hoz létre.", "value": true },
+      { "text": "Flexiót, abductiót (berotatiót) hoz létre.", "value": false },
+      { "text": "Flexiót, abductiót (kirotatiót) hoz létre.", "value": false }
+    ]
+  },
+  {
+    "question": "A vállöv retractiós mozgásakor:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Az acromioclavicularis ízületben az acromion és a clavicula által bezárt horizontális szög növekszik.",
+        "value": true
+      },
+      {
+        "text": "Az acromioclavicularis ízületben az acromion és a clavicula által bezárt horizontális szög csökken.",
+        "value": false
+      },
+      {
+        "text": "Az acromion és a clavicula által bezárt vertikális szög nem változik.",
+        "value": false
+      },
+      { "text": "Az acromion és a clavicula együtt mozog.", "value": false }
+    ]
+  },
+  {
+    "question": "A vállízület flexiójakor a mozgáspálya első felében:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A biceps brachii hosszú fejének ina depressziós irányba húzza a humerus fejét.",
+        "value": true
+      },
+      {
+        "text": "A biceps brachii rövid fejének ina depresszálja és a rotátorköpeny izmai centralizálják a humerus fejét.",
+        "value": false
+      },
+      {
+        "text": "Csak a rotátor köpeny centralizáló funkciója jelentős.",
+        "value": false
+      },
+      {
+        "text": "Csak a m. biceps brachii rövid fejének ina végez jelentős stabilizálást.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A m. trapezius felső része egyoldali fordított működéskor:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A cervicalis gerincszakasz extensióját hozza létre.",
+        "value": false
+      },
+      {
+        "text": "A cervicalis gerincszakasz ellenoldali lateralflexióját és azonos oldali rotatióját hozza létre.",
+        "value": false
+      },
+      {
+        "text": "A cervicalis gerincszakasz azonos oldali lateralflexióját és ellenoldali rotatióját hozza létre.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Belégzéskor az alsó bordák mozgása következtében a mellkas kitérése elsősorban:",
+    "type": "multi",
+    "answers": [
+      { "text": "Transversalis irányú.", "value": true },
+      { "text": "Anteroposterior irányú.", "value": false },
+      { "text": "Cranialis irányú.", "value": false },
+      { "text": "Transversalis és anteroposterior irányú.", "value": false }
+    ]
+  },
+  {
+    "question": "A m. iliopsoas egyoldali fordított működése a lumbalis gerinc:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Azonos oldali lateralflexióját és ellenoldali rotatióját hozza létre.",
+        "value": true
+      },
+      {
+        "text": "Azonos oldali lateralflexióját és azonos oldali rotatióját hozza létre.",
+        "value": false
+      },
+      {
+        "text": "Ellenoldali lateralflexióját és azonos oldali rotatióját hozza létre.",
+        "value": false
+      },
+      {
+        "text": "Ellenoldali lateralflexióját és rotatióját hozza létre.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Háton fekvésből felülről indított felüléskor, ha a medence rögzített, a rotatiós mozgást:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Az azonos oldali m. obliquus internus és az ellenoldali m. obliquus externus hozza létre.",
+        "value": true
+      },
+      {
+        "text": "Az azonos oldali m. obliquus externus és az ellenoldali m. obliquus internus hozza létre.",
+        "value": false
+      },
+      {
+        "text": "Az azonos oldali m. obliquus externus és internus hozza létre.",
+        "value": false
+      },
+      {
+        "text": "Az ellenoldali m. obliquus externus és internus hozza létre.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A lumbalis gerincszakaszon:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Elsősorban flexio-extensio és lateralflexio jön létre az ízületi felszínek sagittalis síkú elhelyezkedése miatt.",
+        "value": true
+      },
+      {
+        "text": "Elsősorban flexio-extensio és lateralflexio jön létre az ízületi felszínek frontalis síkú elhelyezkedése miatt.",
+        "value": false
+      },
+      {
+        "text": "Elsősorban flexio-extensio és rotatio jön létre az ízületi felszínek frontalis síkú elhelyezkedése miatt.",
+        "value": false
+      },
+      {
+        "text": "Elsősorban flexio-extensio és rotatio jön létre az ízületi felszínek sagittalis síkú elhelyezkedése miatt.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A maximális erőltetett belégzés során a thoracalis gerincszakasz:",
+    "type": "multi",
+    "answers": [
+      { "text": "Flexiós helyzetű.", "value": false },
+      { "text": "Extensiós helyzetű.", "value": true },
+      { "text": "Nyugalmi helyzetű.", "value": false },
+      { "text": "Nincs hatással a mellkas mozgására.", "value": false }
+    ]
+  },
+  {
+    "question": "A Trendelenburg-tünet pozitív, ha a vizsgálatkor:",
+    "type": "multi",
+    "answers": [
+      { "text": "A vizsgált oldalon a medencelapát emelkedik.", "value": true },
+      { "text": "A vizsgált oldalon a medencelapát süllyed.", "value": false },
+      { "text": "Az ellenoldalon a medencelapát emelkedik.", "value": false },
+      { "text": "Az ellenoldalon a medencelapát süllyed.", "value": true }
+    ]
+  },
+  {
+    "question": "A csípő adductiós contracturája esetén:",
+    "type": "multi",
+    "answers": [
+      { "text": "A vizsgált oldal látszólag rövidül.", "value": true },
+      { "text": "A vizsgált oldal látszólag hosszabb.", "value": false },
+      { "text": "Az ellenoldal látszólag rövidebb.", "value": false },
+      { "text": "Végtaghosszkülönbség nincs.", "value": false }
+    ]
+  },
+  {
+    "question": "A mellkas sagittalis irányú elmozdulása belégzés során:",
+    "type": "multi",
+    "answers": [
+      { "text": "Az I. borda felfelé ívmozgást végez.", "value": true },
+      { "text": "A sternum lefelé csúszik.", "value": false },
+      { "text": "A X. borda lefelé irányuló ívmozgást végez.", "value": false },
+      { "text": "A chondrocostalis szög záródik.", "value": false }
+    ]
+  },
+  {
+    "question": "Belégzés során hol és mikor jelentősebb a mellkas kitérése?",
+    "type": "multi",
+    "answers": [
+      { "text": "A bordák vízszintes állásakor.", "value": false },
+      { "text": "A 10. borda magasságában.", "value": true },
+      { "text": "Lengőbordáknál.", "value": false },
+      { "text": "Az I. borda magasságában.", "value": false }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak nyílt kinematikus láncú csípő ízületi flexio során?",
+    "type": "multi",
+    "answers": [
+      { "text": "Minden szalag ellazul.", "value": true },
+      {
+        "text": "A konvex felszínű femur fej mozdul el a konkáv acetabulumban.",
+        "value": true
+      },
+      {
+        "text": "Arthrokinematikailag posterior spinning jön létre.",
+        "value": true
+      },
+      {
+        "text": "A konkáv felszínű acetabulum mozdul el a konvex femur fején.",
+        "value": false
+      },
+      {
+        "text": "Arthrokinematikailag anterior spinning jön létre.",
+        "value": false
+      },
+      { "text": "Minden szalag megfeszül.", "value": false }
+    ]
+  },
+  {
+    "question": "Mi a pelvico-lumbo-hip komplexum szerepének a magyarázata a testtartásban az erők szempontjából?",
+    "type": "multi",
+    "answers": [
+      { "text": "Nem a PHL-komplexum a központ.", "value": false },
+      {
+        "text": "A komplexumra ható erők kompressziós hatásának stabilizáló funkciója.",
+        "value": true
+      },
+      {
+        "text": "Az azonos irányú forgatónyomaték a csípőízület és a lumbalis gerinc felől.",
+        "value": false
+      },
+      {
+        "text": "Az ellentétes irányú forgatónyomaték a csípőízület és lumbalis gerinc felől.",
+        "value": true
+      },
+      {
+        "text": "Az izom stabilizátorok kereszt-szinergizmusa.",
+        "value": true
+      },
+      {
+        "text": "Mert a medence közepén van és itt található a test súlypontja.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A medence zárt láncban jobbra történő eltolása esetén?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A medence jobb oldalán az acetabulum superior irányú csúszása jön létre, a jobb oldalon csípőízületi abdukció indukálódik.",
+        "value": false
+      },
+      {
+        "text": "A medence bal oldalán az acetabulum inferior irányú csúszása jön létre, a jobb oldalon csípőízületi addukció indukálódik.",
+        "value": false
+      },
+      {
+        "text": "A medence bal oldalán az acetabulum superior irányú csúszása jön létre, jobb oldalon csípőízületi addukció indukálódik.",
+        "value": true
+      },
+      {
+        "text": "A medence jobb oldalán az acetabulum inferior irányú csúszása jön létre, a bal oldalon csípőízületi abdukció indukálódik.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely testhelyzetben erősíthetjük leghatékonyabban a m. biceps brachii-t?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Ülő testhelyzetben karok törzs mellett, könyökízület nyújtva, enyhe vállízületi extensiós kiinduló helyzet.",
+        "value": true
+      },
+      { "text": "Háton fekvésben teljes mozgáspályán.", "value": false },
+      {
+        "text": "Bordásfallal szemben állva karok törzs mellett 90 fokos flexiós kiinduló helyzetben.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A medence frontális síkban történő stabilizálásában a fő szerepet a m. gluteus maximus és a m. rectus abdominis töltik be azáltal, hogy a csípőízületi abductorok és adductorok kereszt synergizmusban működve segítik egymást a sagittalis síkban.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis", "value": true }
+    ]
+  },
+  {
+    "question": "A lig. sternoclaviculare anterior rostjai a retractiot, posterior rostjai a protractiot, a lateralis rostjai az elevatiot korlátozzák, miközben a m. levator scapulae a scapulát eleválja, az angulus inferiort berotálja.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Vállövi elevatio-depressio során az osteokinematikus elmozdulás és az arthrokinematikai csúszás iránya azonos, protractio-retractio során pedig az osteokinematikus elmozdulás és az arthrokinematikai csúszás iránya azonos. Mértékük: 15 fok.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      {
+        "text": "Hamis (irány ellentétes, elevatio 45 fok, depressio 15 fok)",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely képletek alkotják a vállövi komplexumot?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A scapulo-thoracalis funkcionális összeköttetés.",
+        "value": true
+      },
+      { "text": "A sternoclavicularis ízület.", "value": true },
+      { "text": "Az acromioclavicularis ízület.", "value": true },
+      { "text": "Funkcionálisan 3 anatómiai egység alkotja.", "value": true }
+    ]
+  },
+  {
+    "question": "A törzs rotációja során azonos oldalra rotálnak a m. erector spinae rostjai, miközben a m. transversospinalis rostjai pedig ellenoldalra rotálják a törzset.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Mely izmok tagjai a váll 'rotátor köpeny' izomcsoportjának?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "a, Latissimus dorsi, mint vállízületi extenzor, abductor és kirotátor.",
+        "value": false
+      },
+      {
+        "text": "b, Az infraspinatus és teres minor kirotátorként.",
+        "value": true
+      },
+      {
+        "text": "c, A supraspinatus, infraspinatus és teres maior kirotátorként.",
+        "value": false
+      },
+      {
+        "text": "d, A subscapuláris és deltoideus izmok berotátorként.",
+        "value": false
+      },
+      {
+        "text": "e, A m. coracobrachiális és a subscapuláris mint horizontális adduktor kirotátor.",
+        "value": false
+      },
+      {
+        "text": "f, A subscapularis és teres maior berotátorként.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki a Scheuermann betegségre jellemző tüneteket!",
+    "type": "multi",
+    "answers": [
+      { "text": "Discus degeneráció.", "value": false },
+      { "text": "Schmorl csomók a csigolya zárólemezén.", "value": true },
+      { "text": "Mellkas fokozott tágulékonysága.", "value": true },
+      { "text": "Fokozott thoracalis kyphosis.", "value": true },
+      { "text": "Osteophyta megjelenése a peremszéleken.", "value": false },
+      { "text": "Ék alakú csigolyák.", "value": true }
+    ]
+  },
+  {
+    "question": "A thoracalis szakaszon kialakuló radiculopathia a nyaki és háti szakasz izmainak izomgyengeségét okozza.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      {
+        "text": "Hamis (elvileg csak nyaki és lumbális szakaszon alakul ki)",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Az SPA jellemzően a férfiak esetében gyakori, az első tünetek 50 éves kor után jelentkeznek.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (17-45 között)", "value": true }
+    ]
+  },
+  {
+    "question": "A Scheuermann betegség a thoracalis gerincen leggyakrabban a Th2-3 csigolyákat érinti.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": false },
+      { "text": "Hamis (Th7-10)", "value": true }
+    ]
+  },
+  {
+    "question": "Párosítsa az állításokat a kórképekkel (SPONDYLOLISIS vs SPONDYLOLISTHESIS):\n• Kötőszöveti lazaság miatt is kialakulhat?\n• Nagy mértékű repetitív hyperextenziós mozgások okozhatják?\n• Az elmozdulás mértéke alapján 4 súlyossági fokozata van?\n• A discus degenerációja okozza?\n• Gyakran kialakulhat a nyaki szakaszon is?\n• A pars interarticularis törése elmozdulás nélkül?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Kötőszöveti lazaság → Mindkettő; Hyperextenzió → Mindkettő; 4 fokozat → Spondylolisthesis; Discus degeneráció → Egyik sem; Nyaki szakasz → Egyik sem; Pars interarticularis törés → Spondylolysis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki, mely állítások igazak scoliosis esetén:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Csak az ágyéki és háti szakaszon alakulhat ki.",
+        "value": false
+      },
+      { "text": "Több görbület is megjelenhet.", "value": true },
+      {
+        "text": "Kizárólag csontos deformitás következtében alakulhat ki.",
+        "value": false
+      },
+      {
+        "text": "Az izomzatot érintő elváltozás miatt is kialakulhat.",
+        "value": true
+      },
+      { "text": "Két dimenzióban létrejövő elváltozás.", "value": false }
+    ]
+  },
+  {
+    "question": "Válassza ki a derékfájással kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Discopáthia esetén gyakran krónikussá válhat.",
+        "value": true
+      },
+      {
+        "text": "Az izmok érintettsége mellett neurológiai tünetek is jelentkezhetnek.",
+        "value": true
+      },
+      {
+        "text": "Scheuermann betegség esetén csak enyhe mértékben jelentkezik.",
+        "value": false
+      },
+      { "text": "Porckorongsérv esetén nem jellemző.", "value": false },
+      { "text": "A fájdalom gyakran a halluxig sugározhat.", "value": true },
+      {
+        "text": "A csigolya csontos deformitása miatt is kialakulhat.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Párosítsa az állításokat a kórképekkel (SPA vs Scheuermann):\n• HLA-B27 antigén található a vérben?\n• A gerinc szalagos képletei elcsontosodnak?\n• Sacroileitis tünetei jelennek meg az első stádiumban?\n• A csigolyák zárólemezein schmorl csomók jelennek meg?\n• A csigolyák ék alakúvá válnak?\n• A csontos növekedés fázisának utolsó szakaszában jellemző?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "HLA-B27 → SPA; Szalagok elcsontosodása → SPA; Sacroileitis → SPA; Schmorl csomók → Scheuermann; Ék csigolya → Scheuermann; Növekedési fázis → Scheuermann",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak (légzés fiziológia)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A nyugalmi kilégzés fiziológiásan spontán folyamat a gravitáció, a tüdő szövet feszülése és a nyomásviszonyok révén.",
+        "value": true
+      },
+      { "text": "A fiziológiás légzésfrekvencia 12-16.", "value": true },
+      {
+        "text": "Fizikai aktivitás során az RV nem változik, a légzés frekvencia és a volumen nő.",
+        "value": false
+      },
+      {
+        "text": "A kilégzési segédizmok nyugalomban csak patológiás esetekben aktiválódnak.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak (thoracalis gerinc és mellkas)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A thoracalis gerinc statikus stabilizátorai lig. flavum, lig. interspinale és sacrospinale.",
+        "value": false
+      },
+      {
+        "text": "A mellkas mobilitása a bordák és a costovertebralis és costotransverzalis ízületek mobilitásán alapszik, arthrokinematikai rotatio indukálódik bennük.",
+        "value": false
+      },
+      {
+        "text": "Kilégzés során a bordák rotációja révén depresszálódik a bordakosár.",
+        "value": true
+      },
+      {
+        "text": "Belégzés során az 1-es és 10-es borda eleválódik.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Valgus helyzetnek nevezzük:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "a, Ha az ízületet alkotó distalis csont distalis vége a középvonaltól mediál felé tér el.",
+        "value": false
+      },
+      {
+        "text": "b, Ha az ízületet alkotó distalis csont distalis vége a középvonaltól laterál felé tér el.",
+        "value": true
+      },
+      {
+        "text": "c, Ha az ízületet alkotó proximális csont distalis vége a középvonaltól laterál felé tér el.",
+        "value": false
+      },
+      {
+        "text": "d, Ha az ízületet alkotó proximális csont proximális vége a középvonaltól laterál felé tér el.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A lig. capitis costae radiatum jellemzői:",
+    "type": "multi",
+    "answers": [
+      { "text": "Sugaras lefutású.", "value": true },
+      { "text": "A costovertebrális ízület stabilizátora.", "value": true },
+      {
+        "text": "Rostjai csak az intervertebrális discuson tapadnak.",
+        "value": false
+      },
+      {
+        "text": "A costotransversalis ízület legfőbb stabilizátora.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az SI ízület nyílt láncú nutációja során?",
+    "type": "multi",
+    "answers": [
+      { "text": "A medence posterior irányba billen.", "value": true },
+      {
+        "text": "A sacrum promontóriuma postero-superior irányba billen.",
+        "value": false
+      },
+      { "text": "A medence anterior irányba billen.", "value": false },
+      {
+        "text": "A sacrum promontóriuma antero-inferior irányba billen.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az SI ízület passzív vizsgálatakor, az ilium anterior rotációja a sacrumon kivitelezése során? (SIPS-et cranial felé toljuk, a SIAS-t caudal felé húzzuk)",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A SIPS cranial felé, a SIAS caudál felé mozdul.",
+        "value": false
+      },
+      {
+        "text": "A SIPS caudál felé, a SIAS cranial felé mozdul.",
+        "value": false
+      },
+      { "text": "Kontranutáció az SI ízületben.", "value": false },
+      { "text": "Nutáció az SI ízületben.", "value": true },
+      { "text": "Az ilium nyílt láncú elmozdulása.", "value": true },
+      { "text": "A sacrum zárt láncú elmozdulása.", "value": true }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki a nyaki gerinc kompressziós tesztjeivel kapcsolatos IGAZ állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "a, Foramen intervertebrale szűkület esetén kisugárzó fájdalom alakul ki a nem vizsgált oldalon.",
+        "value": false
+      },
+      {
+        "text": "b, Foramen intervertebrale szűkület esetén lokális fájdalom alakul ki a nem vizsgált oldalon.",
+        "value": false
+      },
+      {
+        "text": "c, Foramen intervertebrale szűkület esetén kisugárzó fájdalom alakul ki a vizsgált oldalon.",
+        "value": true
+      },
+      {
+        "text": "d, Discus hernia esetén kisugárzó fájdalom jelenik meg a vizsgált oldalon.",
+        "value": true
+      },
+      {
+        "text": "e, Discus hernia esetén kisugárzó fájdalom jelenik meg a nem vizsgált oldalon.",
+        "value": false
+      },
+      {
+        "text": "f, Foramen intervertebrale szűkület esetén lokális fájdalom alakul ki a vizsgált oldalon.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mennyi a humerus hossztengelye és fej-nyak tengelye által bezárt szög értéke?",
+    "type": "multi",
+    "answers": [
+      { "text": "a, 145 fok", "value": false },
+      { "text": "b, 30 fok", "value": false },
+      { "text": "c, 15 fok", "value": false },
+      { "text": "d, 135 fok", "value": true }
+    ]
+  },
+  {
+    "question": "A lumbo-sacralis szög mértéke?",
+    "type": "multi",
+    "answers": [
+      { "text": "140°", "value": true },
+      { "text": "120°", "value": false },
+      { "text": "50°", "value": false },
+      { "text": "80°", "value": false }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki a Feiss-line teszttel kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      { "text": "A naviculare helyzetét vizsgálja.", "value": true },
+      {
+        "text": "A patológia mértékét 3 súlyossági fokozatra osztjuk.",
+        "value": true
+      },
+      {
+        "text": "Flexibilis és rigid boltozati rendszert különít el.",
+        "value": false
+      },
+      {
+        "text": "Összehasonlítva a testsúly terheléssel és anélkül végzett vizsgálatot az eredmény minden esetben azonos eredményt mutat.",
+        "value": false
+      },
+      {
+        "text": "A naviculare 1 centiméteres süllyedése már súlyos problémát jelent.",
+        "value": true
+      },
+      { "text": "A talus helyzetét vizsgálja.", "value": false },
+      {
+        "text": "A talus 1 centiméteres süllyedése már súlyos problémát jelent.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás igaz a Delmas index tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A gerinc kifeszített szalaggal mért és a tényleges hosszának hányadosa szorozva 100-al.",
+        "value": true
+      },
+      {
+        "text": "Minél nagyobb az értéke annál inkább csökkent a gerinc rugalmas ellenállása.",
+        "value": true
+      },
+      {
+        "text": "Minél kisebb a Delmas index értéke annál egyenesebbek a gerinc görbületei.",
+        "value": false
+      },
+      { "text": "Optimális értéke 94-96.", "value": true }
+    ]
+  },
+  {
+    "question": "Melyik a musculus transversus abdominis funkciója az alábbiak közül?",
+    "type": "multi",
+    "answers": [
+      { "text": "Stabilizátor a symphysis pubica-ban.", "value": false },
+      {
+        "text": "Stabilizálja a medencét és a lumbális gerincet.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A törzs rotációja során ___ oldalra rotálnak a m. erector spinae rostjai, miközben a m. transversospinalis rostjai pedig ___ oldalra rotálják a törzset. A törzs rotációjakor ___ oldalra rotál a m. quadratus lumborum.",
+    "type": "multi",
+    "answers": [
+      { "text": "azonos – ellentétes – azonos", "value": true },
+      { "text": "ellentétes – azonos – ellentétes", "value": false },
+      { "text": "azonos – azonos – ellentétes", "value": false }
+    ]
+  },
+  {
+    "question": "Mi a lig. anulare fő funkciója?",
+    "type": "multi",
+    "answers": [
+      { "text": "Stabilizálja az ulnát a könyökízületben.", "value": false },
+      {
+        "text": "Valgus irányú stabilitást biztosít a distalis radio-ulnaris ízületben.",
+        "value": false
+      },
+      {
+        "text": "Varus irányú stabilitást biztosít a könyökízületben.",
+        "value": false
+      },
+      {
+        "text": "Ízületi vápát biztosít a radius számára a proximális radio-ulnaris ízületben.",
+        "value": true
+      },
+      {
+        "text": "Stabilizálja a radiust a proximális radio-ulnaris ízületben.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Melyik állítás igaz?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A II. ínhüvelyben futnak az ECRL és ECRB rostjai, valamint a IV. ínhüvelyben futnak az EDC és EDM rostjai.",
+        "value": false
+      },
+      {
+        "text": "A IV. ínhüvelyben futnak az EIP és EDC rostjai, valamint az I. ínhüvelyben futnak az ABPB és az EPB rostjai.",
+        "value": false
+      },
+      {
+        "text": "A III. ínhüvelyben futnak az ECRL és EPL rostjai, valamint az V. ínhüvelyben futnak az EDM és ECU rostjai.",
+        "value": false
+      },
+      {
+        "text": "A VI. ínhüvelyben futnak az ECU rostjai, valamint az I. ínhüvelyben futnak az ABPL és az EPB rostjai.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "LCA funkciója",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A térdízület zárt kinematikus láncú elmozdulása során a femur posterior irányú elmozdulását és kirotációját korlátozza, miközben nyílt kinematikus láncú elmozdulás során korlátozza a tibia berotációját és anterior transzlációját.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítás NEM igaz a mellkas mobilitása során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye az alsó ízületi szakaszon a frontális síkhoz közelít, ezért a bordakosár anterior és superior irányba eleválódik.",
+        "value": true
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye az alsó ízületi szakaszon a sagittalis síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": false
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye a felső ízületi szakaszon a sagittalis síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": true
+      },
+      {
+        "text": "A costovertebrális és costotransversalis ízületek közös tengelye a felső ízületi szakaszon a frontális síkhoz közelít, ezért a bordakosár lateral és superior irányba eleválódik belégzés során.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az alábbiak közül a m. iliopsoas tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus egyenes működése közben a csípő ízületi extenzióját végzi stabil törzshöz képest.",
+        "value": false
+      },
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus fordított működése közben a medencét hátra billenti, lumbális lordosis mértéke csökken, és a csigolyák egymáshoz képesti extenziós irányú elmozdulását indukálja.",
+        "value": false
+      },
+      {
+        "text": "A m. iliopsoas egyoldali koncentrikus működése közben ellenoldalra rotálja a törzset.",
+        "value": true
+      },
+      {
+        "text": "A m. iliopsoas kétoldali koncentrikus fordított működése közben a medencét előre billenti, fokozva a lumbális lordosis mértékét, extendálja a lumbalis gerincet.",
+        "value": true
+      },
+      {
+        "text": "Kétoldali koncentrikus egyenes működése közben az alsó végtagokat emeli (csípő flexió).",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak a canalis carpi tekintetében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A carpalis alagút szindróma alapja a benn futó n. medianus kompressziója.",
+        "value": true
+      },
+      {
+        "text": "A FDS és FDP rostjai 4-4 rostra válva keresztül haladnak benne.",
+        "value": true
+      },
+      {
+        "text": "A n. ulnaris lateralisan, kívül halad el mellette.",
+        "value": true
+      },
+      { "text": "Benne fut a FPL.", "value": true }
+    ]
+  },
+  {
+    "question": "A törzs rotációja során ___ oldalra rotálnak a m. erector spinae rostjai, miközben a m. tranverzospinalis rostjai pedig ___ oldalra rotálják a törzset. A m. quadratus lomborum ___ oldalra rotálja a törzset.",
+    "type": "multi",
+    "answers": [
+      { "text": "azonos – ellentétes – azonos", "value": true },
+      { "text": "ellentétes – azonos – ellentétes", "value": false },
+      { "text": "azonos – azonos – ellentétes", "value": false },
+      { "text": "ellentétes – ellentétes – azonos", "value": false }
+    ]
+  },
+  {
+    "question": "SCOM funkciója (mely állítások igazak)?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A m. longus colli aktivitása során a rostlefutása megváltozik és flexorként segíti a nyaki gerinc elmozdulását.",
+        "value": true
+      },
+      {
+        "text": "Ellenoldali rotációt és azonos oldali lateral flexiót indukál a nyaki gerincen.",
+        "value": true
+      },
+      {
+        "text": "A fejet a nyakcsigolyákhoz képest, a nyakcsigolyákat egymáshoz képest extendálja bilaterális működésben.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Vállízületi flexió – mely állítás igaz?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Humerus disztális vége antero-superior irányban mozdul el miközben az ízületben a humerus fej anterior forgása és inferior csúszása valósul meg.",
+        "value": false
+      },
+      {
+        "text": "Állásban a karok flexióból történő visszaengedése során a deltoideus középső és hátsó rostjai izotóniás koncentrikus működéssel kontrollálnak.",
+        "value": false
+      },
+      {
+        "text": "Vertikális testhelyzetben teljes mozgáspályán a gravitációval szemben dolgozik a biceps brachii hosszú feje, izotóniás koncentrikus aktivitást végez.",
+        "value": true
+      },
+      {
+        "text": "A humerus disztális vége antero-superior irányban mozdul el miközben az ízületben a humerus fej posterior forgása és minimális inferior csúszása valósul meg.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "T4 szindrómára igaz:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A szimpatikus ganglionok irratációját a thoracalis gerinc hypomobilitása, a ganglionok csökkent vérellátása, izom eredetű elváltozások is okozhatják.",
+        "value": true
+      },
+      {
+        "text": "A probléma általában a thoracalis discus hernia talaján alakul ki másodlagosan.",
+        "value": false
+      },
+      {
+        "text": "Kialakulhat a végtagok és a kezek paresthesiája, kéz és alkar zsibbadás, felső végtag hidegsége, a kéz ödémája is.",
+        "value": true
+      },
+      {
+        "text": "A tünetek előfordulhatnak a thoracalis szakaszon, az occiput területén vagy akár ellenoldali, azonos oldali vagy mindkét oldali felső végtagon.",
+        "value": true
+      },
+      {
+        "text": "Nagyon ritkán jelentkezhet felső végtagi tünetek, leggyakrabban lokálisan a T4 csigolya területén fájdalmas.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A tibiofemoralis ízület nyílt láncú extenzióból flexióba haladása során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A tibia anterior elmozdulást és posterior csúszást végez a femur condylusokhoz képest, a mozgáspálya végén a terminális rotáció során tibia kirotáció indukálódik, mely terminális rotációt a m. popliteus és a PCL korlátozza és tengelybe állítja az ízületet.",
+        "value": false
+      },
+      {
+        "text": "A tibia posterior elmozdulást és posterior csúszást végez a femur condylusokhoz képest, a mozgáspálya végén a terminális rotáció során tibia berotáció indukálódik, mely terminális rotációt a m. popliteus és a LCA korlátozza és tengelybe állítja az ízületet.",
+        "value": true
+      },
+      {
+        "text": "A tibia anterior elmozdulást és anterior csúszást végez a femur condylusokhoz képest, a mozgáspálya végén a terminális rotáció során tibia kirotáció indukálódik, mely terminális rotációt a m. popliteus és a LCA korlátozza és tengelybe állítja az ízületet.",
+        "value": false
+      },
+      {
+        "text": "A tibia posterior elmozdulást és anterior csúszást végez a femur condylusokhoz képest, a mozgáspálya végén a terminális rotáció során tibia berotáció indukálódik, mely terminális rotációt a m. popliteus és a PCL korlátozza és tengelybe állítja az ízületet.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A subtalaris ízület zárt kinematikus láncban létrejövő mozgásai?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A subtalaris ízületben zárt láncú inversio során megvalósul a calcaneus supinatioja és a talus abductioja és dorsal flexiója.",
+        "value": false
+      },
+      {
+        "text": "A subtalaris ízületben zárt láncú eversio során megvalósul a calcaneus supinatioja és a talus abductioja és dorsal flexiója.",
+        "value": false
+      },
+      {
+        "text": "A subtalaris ízületben zárt láncú eversio során megvalósul a calcaneus pronatioja és a talus adductioja és plantar flexiója.",
+        "value": true
+      },
+      {
+        "text": "A subtalaris ízületben zárt láncú inversio során megvalósul a calcaneus pronatioja és a talus adductioja és dorsal flexiója.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki az adott teszthez tartozó térdízületi szalagot! (LCA – mindkettő – egyik sem – LCP)\n• Sag-jel\n• Watson\n• Godfrey\n• Slocum\n• Finkelstein\n• Hughston\n• Apley\n• Lachman",
+    "type": "multi",
+    "answers": [
+      { "text": "Sag-jel → LCP", "value": true },
+      { "text": "Watson → egyik sem", "value": true },
+      { "text": "Godfrey → LCP", "value": true },
+      { "text": "Slocum → mindkettő", "value": true },
+      { "text": "Finkelstein → egyik sem", "value": true },
+      { "text": "Hughston → mindkettő", "value": true },
+      { "text": "Apley → egyik sem", "value": true },
+      { "text": "Lachman → LCA", "value": true }
+    ]
+  },
+  {
+    "question": "A Trendelenburg teszt kivitelezésekor a beteg a ___ oldali végtagján áll, ___ végtagját hashoz húzza, a m. gluteus medius gyengesége esetén a ___ végtag oldali medencefél a ___ síkban lebillen.",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "vizsgált – nem vizsgált – nem vizsgált – frontalis",
+        "value": true
+      },
+      {
+        "text": "vizsgált – nem vizsgált – nem vizsgált – sagittalis",
+        "value": false
+      },
+      {
+        "text": "támaszkodó – nem vizsgált – vizsgált – frontalis",
+        "value": false
+      },
+      {
+        "text": "vizsgált – vizsgált – nem vizsgált – frontalis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Az epicondylitis lateralis esetén végzett teszt véghelyzete könyök ___, alkar ___, csukló ___ és az ujjak ___.",
+    "type": "multi",
+    "answers": [
+      { "text": "extensio – pronatio – flexio – flexio", "value": true },
+      { "text": "flexio – supinatio – extensio – extensio", "value": false },
+      { "text": "extensio – supinatio – flexio – flexio", "value": false },
+      { "text": "flexio – pronatio – extensio – flexio", "value": false }
+    ]
+  },
+  {
+    "question": "Lumbosacrális szög mértéke",
+    "type": "multi",
+    "answers": [
+      { "text": "140 fok", "value": true },
+      { "text": "120 fok", "value": false },
+      { "text": "160 fok", "value": false },
+      { "text": "90 fok", "value": false }
+    ]
+  },
+  {
+    "question": "Radiocarpalis ízületben nyílt kinematikus radialdeviatio során létrejövő mozgások:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Proximális kéztőcsontsor ulnár felé, disztális kéztőcsontsor radiál felé csúszik.",
+        "value": true
+      },
+      {
+        "text": "Proximális kéztőcsontsor radiál felé, disztális kéztőcsontsor ulnár felé csúszik.",
+        "value": false
+      },
+      { "text": "Mindkét kéztőcsontsor ulnár felé csúszik.", "value": false },
+      { "text": "Mindkét kéztőcsontsor radiál felé csúszik.", "value": false }
+    ]
+  },
+  {
+    "question": "Idegnyújtási tesztek – helyes pozíciók:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "N. radialis: 10-20° abductio, alkari pronatio, csukló és ujjak flexió",
+        "value": true
+      },
+      {
+        "text": "N. ulnaris: 90-110° abductio, alkari pronatio, csukló és ujjak extensió",
+        "value": true
+      },
+      {
+        "text": "N. medianus: 45° abductio, alkari supinatio, csukló és ujjak extensió",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Izom synergizmusok MCP extenzió, PIP extenzió és DIP flexió során:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "MCP: EDC extendálja; PIP: m. interosseusok extendálják; DIP: FDP flexálja",
+        "value": true
+      },
+      {
+        "text": "MCP: m. interosseusok extendálják; PIP: EDC extendálja; DIP: FDS flexálja",
+        "value": false
+      },
+      {
+        "text": "MCP: FDP flexálja; PIP: EDC extendálja; DIP: m. interosseusok extendálják",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Igaz állítás állástartás során:",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Ha a súlyvonal az ízület forgáspontja előtt halad el, akkor a proximális szegmentumot a disztálishoz képest anterior irányba húzza el.",
+        "value": true
+      },
+      {
+        "text": "Ha a súlyvonal az ízület forgáspontja mögött halad el, akkor a proximális szegmentumot a disztálishoz képest anterior irányba húzza el.",
+        "value": false
+      },
+      {
+        "text": "Ha a súlyvonal az ízület forgáspontja előtt halad el, akkor a proximális szegmentumot a disztálishoz képest posterior irányba húzza el.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Válassza ki a járás fázisainak-pillanatainak megfelelő válaszokat!\n• A járás során a sarok leérkezésének pillanatában a subtalaris ízületben létrejövő mozgás?\n• A teljes talp leérkezésének pillanatát követő gördülés alfázisában a subtalaris ízületben létrejövő mozgás?\n• A térd ízületben a saroktámasz alfázisában létrejövő mozgás a facilitáció érdekében?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Sarok leérkezés → inverzió; Teljes talp gördülés → everzió; Saroktámasz → flexió",
+        "value": true
+      },
+      {
+        "text": "Sarok leérkezés → everzió; Teljes talp gördülés → inverzió; Saroktámasz → extensió",
+        "value": false
+      },
+      {
+        "text": "Sarok leérkezés → inverzió; Teljes talp gördülés → inverzió; Saroktámasz → flexió",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki az adott izmokhoz tartozó helyes kiinduló helyzetet 2-es izomerő esetén!\n• ECU 2-es izomereje esetén az alkar pozíciója?\n• ECR 2-es izomereje esetén az alkar pozíciója?\n• FCU 2-es izomereje esetén az alkar pozíciója?\n• FCR 2-es izomereje esetén az alkar pozíciója?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "ECU → enyhe pronatio; ECR → enyhe supinatio; FCU → enyhe supinatio; FCR → enyhe pronatio",
+        "value": true
+      },
+      {
+        "text": "ECU → enyhe supinatio; ECR → enyhe pronatio; FCU → enyhe pronatio; FCR → enyhe supinatio",
+        "value": false
+      },
+      {
+        "text": "ECU → enyhe pronatio; ECR → enyhe pronatio; FCU → enyhe supinatio; FCR → enyhe supinatio",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki a Feiss-line teszttel kapcsolatos igaz állításokat!",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Összehasonlítva a testsúly terheléssel és anélkül végzett vizsgálatot az eredmény minden esetben azonos eredményt mutat.",
+        "value": false
+      },
+      {
+        "text": "A patológia mértékét 3 súlyossági fokozatra osztjuk.",
+        "value": true
+      },
+      {
+        "text": "A talus 1 centiméteres süllyedése már súlyos problémát jelent.",
+        "value": false
+      },
+      {
+        "text": "Flexibilis és rigid boltozati rendszer különít el.",
+        "value": true
+      },
+      { "text": "A talus helyzetét vizsgálja.", "value": false },
+      { "text": "A naviculare helyzetét vizsgálja.", "value": true },
+      {
+        "text": "A naviculare 1 centiméteres süllyedése már súlyos problémát jelent.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Laterális parittya alkotói:",
+    "type": "multi",
+    "answers": [
+      { "text": "M. peroneus brevis és m. peroneus tertius", "value": true },
+      { "text": "M. peroneus longus és m. peroneus brevis", "value": false },
+      { "text": "M. peroneus longus és m. peroneus tertius", "value": false },
+      { "text": "M. tibialis anterior és m. peroneus brevis", "value": false }
+    ]
+  },
+  {
+    "question": "A talocruralis ízület nyílt kinematikus láncú plantar flexiója során mely állítások igazak?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "A tibio-fibularis syndesmosisban a fibula inferior irányú csúszása és kirotációja valósul meg.",
+        "value": true
+      },
+      {
+        "text": "A talus anterior irányba csúszik, a keskenyebb ízfelszíne kerül a tibia és fibula közé, az ízület nyílt ízületi helyzetbe kerül.",
+        "value": true
+      },
+      {
+        "text": "A talus posterior irányba csúszik, a szélesebb ízfelszíne kerül a tibia és fibula közé, az ízület zárt ízületi helyzetbe kerül.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kérem párosítsa, mely kiinduló testhelyzetet a megadott szempontok figyelembe vétele esetében?\n• Könyök ízületi flexorok erősítése\n• Csípő ízületi extenzorok együttes erősítése\n• Térd ízület stabilizátorok stabilitásának fokozása\n• Könyök ízületi extenzorok erősítése",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Könyök flexorok → vertikális testhelyzetben, karok törzsünk mellett, vállízületben enyhe extenzió, alkari supinatio",
+        "value": true
+      },
+      {
+        "text": "Csípő extenzorok → hason fekvő testhelyzetben, extendált térdízület mellett",
+        "value": true
+      },
+      {
+        "text": "Térd stabilizátorok → vertikális terhelt testhelyzetben zárt kinematikus láncú instabil felszínen végzett gyakorlatok",
+        "value": true
+      },
+      {
+        "text": "Könyök extenzorok → vertikális testhelyzetben, vállízületben teljes flexió, karok fül mellett, teljes flexióban a könyök ízület, ujjak az azonos oldali scapulara néznek",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mely állítások igazak az SI ízület passzív vizsgálatakor, az Ilium anterior rotációja a sacrumon kivitelezése során?",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "a) SIPS cranial felé, a SIAS caudal felé mozdul",
+        "value": true
+      },
+      { "text": "b) Kontranutáció az SI ízületben", "value": true },
+      { "text": "c) Nutáció az SI ízületben", "value": false },
+      { "text": "d) A sacrum zárt láncú elmozdulása", "value": false },
+      { "text": "e) Az ilium nyílt láncú elmozdulása", "value": true },
+      {
+        "text": "f) SIPS caudal felé, a SIAS cranial felé mozdul",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Csípőízület nyílt ízületi helyzete",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "Minden szalag ellazul; flexió, abductió, kirotáció",
+        "value": true
+      },
+      {
+        "text": "Minden szalag megfeszül; extensio, adductio, berotáció",
+        "value": false
+      },
+      {
+        "text": "Csak a tok elülső része lazul el; flexió, abductio, neutrális rotáció",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A piriformis palpatióját a SIPS – Trochanter Major vonalának és a SIAS – Tuber Ischiadicum vonalának metszéspontjában végezzük.",
+    "type": "bool",
+    "answers": [
+      { "text": "Igaz", "value": true },
+      { "text": "Hamis", "value": false }
+    ]
+  },
+  {
+    "question": "Kérem válassza ki az állításokhoz tartozó párokat az Impingement teszthez kapcsolódóan!\na) AC-Shear teszt elvégzése szükséges\nb) Az AC ízület problémája esetén jelenik meg fájdalom\nc) A rotátorköpeny sérülése esetén tünete lesz a betegnek\nd) Tünet esetén a Drop-Arm tesztet végezzük el\ne) A biceps brachii érintettsége esetén panasza lesz a betegnek\nf) Tünet esetén a Yergason tesztet végezzük el",
+    "type": "multi",
+    "answers": [
+      {
+        "text": "a) AC-Shear teszt elvégzése szükséges → külső pálya",
+        "value": true
+      },
+      {
+        "text": "b) Az AC ízület problémája esetén jelenik meg fájdalom → külső pálya",
+        "value": true
+      },
+      {
+        "text": "c) A rotátorköpeny sérülése esetén tünete lesz a betegnek → középső pálya",
+        "value": true
+      },
+      {
+        "text": "d) Tünet esetén a Drop-Arm tesztet végezzük el → középső pálya",
+        "value": true
+      },
+      {
+        "text": "e) A biceps brachii érintettsége esetén panasza lesz a betegnek → belső pálya",
+        "value": true
+      },
+      {
+        "text": "f) Tünet esetén a Yergason tesztet végezzük el → belső pálya",
+        "value": true
+      }
+    ]
+  }
+]
