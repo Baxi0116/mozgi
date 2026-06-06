@@ -77,6 +77,8 @@ const resetScore = function() {
 }
 
 const currentIndex = ref(0);
+
+//@ts-ignore
 const currentQuestion = computed<Question | undefined>(() => {
   return questions?.[questionnaire.value?.[currentIndex.value] ?? 0];
 });
@@ -133,8 +135,8 @@ const setupTimeChallenge = function() {
 
   timeLeft.value = 40 * 60000;
   timer.value = setInterval(() => {
-    timeLeft.value -= 1000
-    if(timeLeft.value <= 0) {
+    timeLeft.value! -= 1000
+    if(timeLeft.value! <= 0) {
       finishChallenge();
     }
   }, 1000)
